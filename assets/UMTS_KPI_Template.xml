@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TemplateTable>
+    <TemplateMainInfo groupId="30500">
+        <TemplateInfo groupID="30500" neTypeId="0" ownerName="NA" templateId="30501" templateName="UMTS RAW COUNTERS" templateType="0"/>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30501">
+        <TemplateInfo groupID="30501" neTypeId="-1002" ownerName="NA" templateId="30502" templateName="UMTS Daily Report" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-1000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="67189840" counterName="VS.HSDPA.MeanChThroughput.TotalBytes" counterType="0" counterUnit="7" functionSubsetId="67109390"/>
+                <CounterDetailInfo bNested="false" counterId="67183993" counterName="VS.PS.Bkg.DL.8.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183994" counterName="VS.PS.Bkg.DL.16.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183995" counterName="VS.PS.Bkg.DL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183996" counterName="VS.PS.Bkg.DL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183997" counterName="VS.PS.Bkg.DL.128.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183998" counterName="VS.PS.Bkg.DL.144.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67183999" counterName="VS.PS.Bkg.DL.256.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184000" counterName="VS.PS.Bkg.DL.384.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184001" counterName="VS.PS.Int.DL.8.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184002" counterName="VS.PS.Int.DL.16.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184003" counterName="VS.PS.Int.DL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184004" counterName="VS.PS.Int.DL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184005" counterName="VS.PS.Int.DL.128.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184006" counterName="VS.PS.Int.DL.144.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184007" counterName="VS.PS.Int.DL.256.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184008" counterName="VS.PS.Int.DL.384.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193548" counterName="VS.PS.Str.DL.8.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193550" counterName="VS.PS.Str.DL.16.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184009" counterName="VS.PS.Str.DL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184010" counterName="VS.PS.Str.DL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184011" counterName="VS.PS.Str.DL.128.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184012" counterName="VS.PS.Str.DL.144.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193552" counterName="VS.PS.Str.DL.256.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193554" counterName="VS.PS.Str.DL.384.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="73393908" counterName="VS.PS.Conv.DL.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67192486" counterName="VS.HSUPA.MeanChThroughput.TotalBytes" counterType="0" counterUnit="7" functionSubsetId="67109471"/>
+                <CounterDetailInfo bNested="false" counterId="67184014" counterName="VS.PS.Bkg.UL.8.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184015" counterName="VS.PS.Bkg.UL.16.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184016" counterName="VS.PS.Bkg.UL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184017" counterName="VS.PS.Bkg.UL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184018" counterName="VS.PS.Bkg.UL.128.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184019" counterName="VS.PS.Bkg.UL.144.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184020" counterName="VS.PS.Bkg.UL.256.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184021" counterName="VS.PS.Bkg.UL.384.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184022" counterName="VS.PS.Int.UL.8.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184023" counterName="VS.PS.Int.UL.16.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184024" counterName="VS.PS.Int.UL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184025" counterName="VS.PS.Int.UL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184026" counterName="VS.PS.Int.UL.128.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184027" counterName="VS.PS.Int.UL.144.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184028" counterName="VS.PS.Int.UL.256.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184029" counterName="VS.PS.Int.UL.384.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193556" counterName="VS.PS.Str.UL.8.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184030" counterName="VS.PS.Str.UL.16.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184031" counterName="VS.PS.Str.UL.32.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67184032" counterName="VS.PS.Str.UL.64.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67193558" counterName="VS.PS.Str.UL.128.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="73393910" counterName="VS.PS.Conv.UL.Traffic" counterType="0" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67202932" counterName="VS.HSDPA.UE.Mean.Cell" counterType="0" counterUnit="0" functionSubsetId="67109390"/>
+                <CounterDetailInfo bNested="false" counterId="67192689" counterName="VS.AMR.Erlang.BestCell" counterType="1" counterUnit="0" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterFormula="{8}*[67189840]/[67190567]" counterId="67202894" counterName="VS.HSDPA.MeanChThroughput" counterType="1" counterUnit="31" functionSubsetId="67109390"/>
+                <CounterDetailInfo bNested="false" counterFormula="{8}*[67192486]/[67192487]" counterId="67203932" counterName="VS.HSUPA.MeanChThroughput" counterType="1" counterUnit="31" functionSubsetId="67109471"/>
+                <CounterDetailInfo bNested="false" counterId="67204837" counterName="VS.Cell.UnavailTime.Sys" counterType="1" counterUnit="2" functionSubsetId="67109391"/>
+                <CounterDetailInfo bNested="false" counterId="73410510" counterName="VS.CellDCHUEs" counterType="0" counterUnit="0" functionSubsetId="82834952"/>
+                <CounterDetailInfo bNested="false" counterId="67192690" counterName="VS.VP.Erlang.BestCell" counterType="1" counterUnit="0" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="73446462" counterName="VS.SRNCIubBytesPSFACH.Tx" counterType="1" counterUnit="7" functionSubsetId="67109387"/>
+                <CounterDetailInfo bNested="false" counterId="73446464" counterName="VS.SRNCIubBytesPSEFACH.Tx" counterType="1" counterUnit="7" functionSubsetId="67109387"/>
+                <CounterDetailInfo bNested="false" counterId="67189905" counterName="VS.DcchSRB.Dl.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="73446463" counterName="VS.SRNCIubBytesPSRACH.Rx" counterType="1" counterUnit="7" functionSubsetId="67109387"/>
+                <CounterDetailInfo bNested="false" counterId="73446465" counterName="VS.SRNCIubBytesPSERACH.Rx" counterType="1" counterUnit="7" functionSubsetId="67109387"/>
+                <CounterDetailInfo bNested="false" counterId="67189903" counterName="VS.DcchSRB.Ul.Traffic" counterType="1" counterUnit="30" functionSubsetId="67109508"/>
+                <CounterDetailInfo bNested="false" counterId="67179457" counterName="RRC.SuccConnEstab.OrgConvCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179462" counterName="RRC.SuccConnEstab.TmConvCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179466" counterName="RRC.SuccConnEstab.EmgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="73426330" counterName="VS.SuccCellUpdt.OrgConvCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="73426331" counterName="VS.SuccCellUpdt.TmConvCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="73426332" counterName="VS.SuccCellUpdt.EmgCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67179329" counterName="RRC.AttConnEstab.OrgConvCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179334" counterName="RRC.AttConnEstab.TmConvCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179338" counterName="RRC.AttConnEstab.EmgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="73426327" counterName="VS.AttCellUpdt.OrgConvCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="73426328" counterName="VS.AttCellUpdt.TmConvCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="73426329" counterName="VS.AttCellUpdt.EmgCall.PCH" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67179827" counterName="VS.RAB.SuccEstabCS.Conv" counterType="0" counterUnit="0" functionSubsetId="67109368"/>
+                <CounterDetailInfo bNested="false" counterId="67179828" counterName="VS.RAB.SuccEstabCS.Str" counterType="0" counterUnit="0" functionSubsetId="67109368"/>
+                <CounterDetailInfo bNested="false" counterId="67179825" counterName="VS.RAB.AttEstabCS.Conv" counterType="0" counterUnit="0" functionSubsetId="67109368"/>
+                <CounterDetailInfo bNested="false" counterId="67179826" counterName="VS.RAB.AttEstabCS.Str" counterType="0" counterUnit="0" functionSubsetId="67109368"/>
+                <CounterDetailInfo bNested="false" counterId="67179460" counterName="RRC.SuccConnEstab.OrgBkgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179465" counterName="RRC.SuccConnEstab.TmBkgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179459" counterName="RRC.SuccConnEstab.OrgInterCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179464" counterName="RRC.SuccConnEstab.TmItrCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179458" counterName="RRC.SuccConnEstab.OrgStrCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179463" counterName="RRC.SuccConnEstab.TmStrCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179471" counterName="RRC.SuccConnEstab.OrgHhPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179474" counterName="RRC.SuccConnEstab.TmHhPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179472" counterName="RRC.SuccConnEstab.OrgLwPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179475" counterName="RRC.SuccConnEstab.TmLwPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179461" counterName="RRC.SuccConnEstab.OrgSubCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179476" counterName="RRC.SuccConnEstab.Unkown" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179473" counterName="RRC.SuccConnEstab.CallReEst" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67180382" counterName="VS.SuccCellUpdt.PageRsp" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67180383" counterName="VS.SuccCellUpdt.ULDataTrans" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67179332" counterName="RRC.AttConnEstab.OrgBkgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179337" counterName="RRC.AttConnEstab.TmBkgCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179331" counterName="RRC.AttConnEstab.OrgInterCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179336" counterName="RRC.AttConnEstab.TmInterCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179330" counterName="RRC.AttConnEstab.OrgStrCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179335" counterName="RRC.AttConnEstab.TmStrCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179343" counterName="RRC.AttConnEstab.OrgHhPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179346" counterName="RRC.AttConnEstab.TmHhPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179344" counterName="RRC.AttConnEstab.OrgLwPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179347" counterName="RRC.AttConnEstab.TmLwPrSig" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179333" counterName="RRC.AttConnEstab.OrgSubCall" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179348" counterName="RRC.AttConnEstab.Unknown" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67179345" counterName="RRC.AttConnEstab.CallReEst" counterType="0" counterUnit="0" functionSubsetId="67109365"/>
+                <CounterDetailInfo bNested="false" counterId="67180375" counterName="VS.AttCellUpdt.PageRsp" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67180376" counterName="VS.AttCellUpdt.ULDataTrans" counterType="1" counterUnit="0" functionSubsetId="67109382"/>
+                <CounterDetailInfo bNested="false" counterId="67179925" counterName="VS.RAB.SuccEstabPS.Conv" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179926" counterName="VS.RAB.SuccEstabPS.Str" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179927" counterName="VS.RAB.SuccEstabPS.Int" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179928" counterName="VS.RAB.SuccEstabPS.Bkg" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <OtherElement period="2">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/29 20:58:00" startDate="2021/01/29 08:58:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="false"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30501">
+        <TemplateInfo groupID="30501" neTypeId="-1002" ownerName="NA" templateId="30503" templateName="UMTS Daily Report1" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-1000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="73426334" counterName="VS.DCCC.Succ.F2D.AfterP2F" counterType="1" counterUnit="0" functionSubsetId="82863958"/>
+                <CounterDetailInfo bNested="false" counterId="67179921" counterName="VS.RAB.AttEstabPS.Conv" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179922" counterName="VS.RAB.AttEstabPS.Str" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179923" counterName="VS.RAB.AttEstabPS.Int" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="67179924" counterName="VS.RAB.AttEstabPS.Bkg" counterType="0" counterUnit="0" functionSubsetId="67109372"/>
+                <CounterDetailInfo bNested="false" counterId="73426333" counterName="VS.DCCC.Att.F2D.AfterP2F" counterType="1" counterUnit="0" functionSubsetId="82863958"/>
+                <OtherElement period="2">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/29 20:58:00" startDate="2021/01/29 08:58:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="false"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30501">
+        <TemplateInfo groupID="30501" neTypeId="-1002" ownerName="NA" templateId="30504" templateName="UMTS MOCN" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-1000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="73451354" counterName="VS.PSLoad.ULThruput.MOCN.PLMN0" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451355" counterName="VS.PSLoad.ULThruput.MOCN.PLMN1" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451356" counterName="VS.PSLoad.ULThruput.MOCN.PLMN2" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451357" counterName="VS.PSLoad.ULThruput.MOCN.PLMN3" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451358" counterName="VS.PSLoad.DLThruput.MOCN.PLMN0" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451359" counterName="VS.PSLoad.DLThruput.MOCN.PLMN1" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451360" counterName="VS.PSLoad.DLThruput.MOCN.PLMN2" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451361" counterName="VS.PSLoad.DLThruput.MOCN.PLMN3" counterType="1" counterUnit="7" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451362" counterName="VS.CS.Erlang.Equiv.MOCN.PLMN0" counterType="1" counterUnit="4" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451363" counterName="VS.CS.Erlang.Equiv.MOCN.PLMN1" counterType="1" counterUnit="4" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451364" counterName="VS.CS.Erlang.Equiv.MOCN.PLMN2" counterType="1" counterUnit="4" functionSubsetId="82863957"/>
+                <CounterDetailInfo bNested="false" counterId="73451365" counterName="VS.CS.Erlang.Equiv.MOCN.PLMN3" counterType="1" counterUnit="4" functionSubsetId="82863957"/>
+                <OtherElement period="2">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/29 20:58:00" startDate="2021/01/29 08:58:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="false"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+</TemplateTable>

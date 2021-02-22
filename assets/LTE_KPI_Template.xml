@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TemplateTable>
+    <TemplateMainInfo groupId="30500">
+        <TemplateInfo groupID="30500" neTypeId="0" ownerName="NA" templateId="30507" templateName="LTE RAW COUNTERS" templateType="0"/>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30508" templateName="LTE Daily MOCN Report" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526728077" counterName="L.Traffic.User.Avg.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726720"/>
+                <CounterDetailInfo bNested="false" counterId="1526728265" counterName="L.Thrp.bits.DL.PLMN" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526728263" counterName="L.Thrp.bits.UL.PLMN" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526729025" counterName="L.Thrp.bits.DL.LastTTI.PLMN" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526729035" counterName="L.Thrp.Time.DL.RmvLastTTI.PLMN" counterType="0" counterUnit="3" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526729051" counterName="L.Thrp.bits.UE.UL.LastTTI.PLMN" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526729052" counterName="L.Thrp.Time.UE.UL.RmvLastTTI.PLMN" counterType="0" counterUnit="3" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526728293" counterName="L.RBUsedOwn.DL.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726732"/>
+                <CounterDetailInfo bNested="false" counterId="1526728251" counterName="L.E-RAB.SuccEst.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726721"/>
+                <CounterDetailInfo bNested="false" counterId="1526728250" counterName="L.E-RAB.AttEst.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726721"/>
+                <CounterDetailInfo bNested="false" counterId="1526728254" counterName="L.E-RAB.AbnormRel.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526728383" counterName="L.E-RAB.AbnormRel.MME.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526728255" counterName="L.E-RAB.NormRel.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526728379" counterName="L.IRATHO.E2W.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726736"/>
+                <CounterDetailInfo bNested="false" counterId="1526728382" counterName="L.IRATHO.E2G.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726736"/>
+                <CounterDetailInfo bNested="false" counterId="1526728361" counterName="L.HHO.IntraeNB.IntraFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728367" counterName="L.HHO.IntereNB.IntraFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728360" counterName="L.HHO.IntraeNB.IntraFreq.ExecAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728366" counterName="L.HHO.IntereNB.IntraFreq.ExecAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526730045" counterName="L.CSFB.PrepSucc.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726736"/>
+                <CounterDetailInfo bNested="false" counterId="1526730044" counterName="L.CSFB.PrepAtt.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726736"/>
+                <CounterDetailInfo bNested="false" counterId="1526727854" counterName="L.E-RAB.SuccEst.PLMN.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726721"/>
+                <CounterDetailInfo bNested="false" counterId="1526727853" counterName="L.E-RAB.AttEst.PLMN.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726721"/>
+                <CounterDetailInfo bNested="false" counterId="1526727871" counterName="L.E-RAB.AbnormRel.PLMN.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526729943" counterName="L.E-RAB.AbnormRel.MME.VoIP.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526727872" counterName="L.E-RAB.NormRel.PLMN.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726723"/>
+                <CounterDetailInfo bNested="false" counterId="1526730115" counterName="L.E-RAB.SessionTime.HighPrecision.PLMN.QCI1" counterType="0" counterUnit="55" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526728071" counterName="L.Thrp.bits.DL.PLMN.QCI.8" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526728044" counterName="L.Thrp.bits.UL.PLMN.QCI.8" counterType="0" counterUnit="30" functionSubsetId="1526726719"/>
+                <CounterDetailInfo bNested="false" counterId="1526728294" counterName="L.RBUsedOwn.UL.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726732"/>
+                <CounterDetailInfo bNested="false" counterId="1526728359" counterName="L.HHO.IntraeNB.IntraFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728365" counterName="L.HHO.IntereNB.IntraFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728364" counterName="L.HHO.IntraeNB.InterFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728370" counterName="L.HHO.IntereNB.InterFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728362" counterName="L.HHO.IntraeNB.InterFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728368" counterName="L.HHO.IntereNB.InterFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728373" counterName="L.HHO.X2.IntraFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728376" counterName="L.HHO.X2.InterFreq.ExecSuccOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728371" counterName="L.HHO.X2.IntraFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526728374" counterName="L.HHO.X2.InterFreq.PrepAttOut.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726735"/>
+                <CounterDetailInfo bNested="false" counterId="1526729503" counterName="L.RRCRedirection.E2W.PLMN" counterType="1" counterUnit="0" functionSubsetId="1526726736"/>
+                <CounterDetailInfo bNested="false" counterId="1526730046" counterName="L.RRCRedirection.E2W.CSFB.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726736"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:30:00" startDate="2021/01/30 08:30:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30509" templateName="LTE Daily Report" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526727378" counterName="L.Traffic.User.Avg" counterType="0" counterUnit="0" functionSubsetId="1526726705"/>
+                <CounterDetailInfo bNested="false" counterId="1526728261" counterName="L.Thrp.bits.DL" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728178" counterName="L.Thrp.bits.DL.SRB" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728179" counterName="L.Thrp.bits.UL.SRB" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728259" counterName="L.Thrp.bits.UL" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526729005" counterName="L.Thrp.bits.DL.LastTTI" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526729015" counterName="L.Thrp.Time.DL.RmvLastTTI" counterType="0" counterUnit="3" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526729050" counterName="L.Thrp.Time.UE.UL.RmvLastTTI" counterType="0" counterUnit="3" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526729049" counterName="L.Thrp.bits.UE.UL.LastTTI" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728763" counterName="L.ChMeas.PRB.DL.DrbUsed.Avg" counterType="0" counterUnit="0" functionSubsetId="1526726702"/>
+                <CounterDetailInfo bNested="false" counterId="1526728433" counterName="L.ChMeas.PRB.DL.Avail" counterType="0" counterUnit="0" functionSubsetId="1526726702"/>
+                <CounterDetailInfo bNested="false" counterId="1526726659" counterName="L.RRC.ConnReq.Succ" counterType="0" counterUnit="0" functionSubsetId="1526726657"/>
+                <CounterDetailInfo bNested="false" counterId="1526728225" counterName="L.RRC.ConnReq.Succ.MoSig" counterType="0" counterUnit="0" functionSubsetId="1526726657"/>
+                <CounterDetailInfo bNested="false" counterId="1526726658" counterName="L.RRC.ConnReq.Att" counterType="0" counterUnit="0" functionSubsetId="1526726657"/>
+                <CounterDetailInfo bNested="false" counterId="1526728220" counterName="L.RRC.ConnReq.Att.MoSig" counterType="0" counterUnit="0" functionSubsetId="1526726657"/>
+                <CounterDetailInfo bNested="false" counterId="1526728273" counterName="L.S1Sig.ConnEst.Succ" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526728272" counterName="L.S1Sig.ConnEst.Att" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526727544" counterName="L.E-RAB.SuccEst" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526727545" counterName="L.E-RAB.AttEst" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526727546" counterName="L.E-RAB.AbnormRel" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526728292" counterName="L.E-RAB.AbnormRel.MME" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526741752" counterName="L.E-RAB.NormRel.IRatHOOut" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526727547" counterName="L.E-RAB.NormRel" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526726997" counterName="L.HHO.IntraeNB.IntraFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727003" counterName="L.HHO.IntereNB.IntraFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526726996" counterName="L.HHO.IntraeNB.IntraFreq.ExecAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727002" counterName="L.HHO.IntereNB.IntraFreq.ExecAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526728322" counterName="L.CSFB.PrepSucc" counterType="0" counterUnit="0" functionSubsetId="1526726706"/>
+                <CounterDetailInfo bNested="false" counterId="1526728321" counterName="L.CSFB.PrepAtt" counterType="0" counterUnit="0" functionSubsetId="1526726706"/>
+                <CounterDetailInfo bNested="false" counterId="1526726669" counterName="L.E-RAB.SuccEst.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526726668" counterName="L.E-RAB.AttEst.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726659"/>
+                <CounterDetailInfo bNested="false" counterId="1526739741" counterName="L.E-RAB.FailEst.X2AP.VoIP" counterType="0" counterUnit="0" functionSubsetId="1526726661"/>
+                <CounterDetailInfo bNested="false" counterId="1526726686" counterName="L.E-RAB.AbnormRel.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526729924" counterName="L.E-RAB.AbnormRel.MME.VoIP" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526726687" counterName="L.E-RAB.NormRel.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526741743" counterName="L.E-RAB.NormRel.IRatHOOut.QCI.1" counterType="0" counterUnit="0" functionSubsetId="1526726660"/>
+                <CounterDetailInfo bNested="false" counterId="1526735162" counterName="L.E-RAB.SessionTime.HighPrecision.QCI1" counterType="0" counterUnit="55" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728320" counterName="L.Cell.Avail.Dur" counterType="0" counterUnit="2" functionSubsetId="1526726662"/>
+                <CounterDetailInfo bNested="false" counterId="1526728493" counterName="L.Cell.Unavail.Dur.EnergySaving" counterType="0" counterUnit="2" functionSubsetId="1526726662"/>
+                <CounterDetailInfo bNested="false" counterId="1526726824" counterName="L.Thrp.bits.DL.QCI.8" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526726797" counterName="L.Thrp.bits.UL.QCI.8" counterType="0" counterUnit="30" functionSubsetId="1526726664"/>
+                <CounterDetailInfo bNested="false" counterId="1526728762" counterName="L.ChMeas.PRB.UL.DrbUsed.Avg" counterType="0" counterUnit="0" functionSubsetId="1526726702"/>
+                <CounterDetailInfo bNested="false" counterId="1526728434" counterName="L.ChMeas.PRB.UL.Avail" counterType="0" counterUnit="0" functionSubsetId="1526726702"/>
+                <CounterDetailInfo bNested="false" counterId="1526726995" counterName="L.HHO.IntraeNB.IntraFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727001" counterName="L.HHO.IntereNB.IntraFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727000" counterName="L.HHO.IntraeNB.InterFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727006" counterName="L.HHO.IntereNB.InterFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526726998" counterName="L.HHO.IntraeNB.InterFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526727004" counterName="L.HHO.IntereNB.InterFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726708"/>
+                <CounterDetailInfo bNested="false" counterId="1526728326" counterName="L.RRCRedirection.E2W" counterType="0" counterUnit="0" functionSubsetId="1526726706"/>
+                <CounterDetailInfo bNested="false" counterId="1526728497" counterName="L.RRCRedirection.E2W.CSFB" counterType="0" counterUnit="0" functionSubsetId="1526726706"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:31:00" startDate="2021/01/30 08:31:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30510" templateName="LTE Daily Report1" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526728227" counterName="L.UECNTX.AbnormRel" counterType="0" counterUnit="0" functionSubsetId="1526726729"/>
+                <CounterDetailInfo bNested="false" counterId="1526728228" counterName="L.UECNTX.NormRel" counterType="0" counterUnit="0" functionSubsetId="1526726729"/>
+                <CounterDetailInfo bNested="false" counterId="1526728861" counterName="L.UECNTX.Rel.MME" counterType="0" counterUnit="0" functionSubsetId="1526726729"/>
+                <CounterDetailInfo bNested="false" counterId="1526727266" counterName="L.HHO.X2.IntraFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726710"/>
+                <CounterDetailInfo bNested="false" counterId="1526727269" counterName="L.HHO.X2.InterFreq.ExecSuccOut" counterType="0" counterUnit="0" functionSubsetId="1526726710"/>
+                <CounterDetailInfo bNested="false" counterId="1526727264" counterName="L.HHO.X2.IntraFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726710"/>
+                <CounterDetailInfo bNested="false" counterId="1526727267" counterName="L.HHO.X2.InterFreq.PrepAttOut" counterType="0" counterUnit="0" functionSubsetId="1526726710"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:31:00" startDate="2021/01/30 08:31:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30512" templateName="LTE NB IOT MOCN REPORT" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526745754" counterName="L.NB.UECNTX.NormRel.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726873"/>
+                <CounterDetailInfo bNested="false" counterId="1526745755" counterName="L.NB.UECNTX.AbnormRel.PLMN" counterType="0" counterUnit="0" functionSubsetId="1526726873"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:31:00" startDate="2021/01/30 08:31:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30513" templateName="LTE NB IOT Report" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526746036" counterName="L.NB.Thrp.bits.DL" counterType="0" counterUnit="30" functionSubsetId="1526726867"/>
+                <CounterDetailInfo bNested="false" counterId="1526746038" counterName="L.NB.Thrp.bits.UL" counterType="0" counterUnit="30" functionSubsetId="1526726867"/>
+                <CounterDetailInfo bNested="false" counterId="1526744769" counterName="L.NB.UECNTX.NormRel" counterType="0" counterUnit="0" functionSubsetId="1526726856"/>
+                <CounterDetailInfo bNested="false" counterId="1526744772" counterName="L.NB.UECNTX.AbnormRel" counterType="0" counterUnit="0" functionSubsetId="1526726856"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:31:00" startDate="2021/01/30 08:31:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+    <TemplateMainInfo groupId="30507">
+        <TemplateInfo groupID="30507" neTypeId="-2003" ownerName="NA" templateId="30511" templateName="LTE eMTC Report" templateType="1">
+            <FileElement>
+                <ObjectInfoElement allNeFlag="false">
+                    <NeElement allObjectFlag="true" neName="-2000_All" neTypeAllFlag="true"/>
+                </ObjectInfoElement>
+                <CounterDetailInfo bNested="false" counterId="1526746051" counterName="L.Thrp.eMTC.bits.DL" counterType="0" counterUnit="30" functionSubsetId="1526726899"/>
+                <CounterDetailInfo bNested="false" counterId="1526746048" counterName="L.Thrp.eMTC.bits.UL" counterType="0" counterUnit="30" functionSubsetId="1526726899"/>
+                <OtherElement period="3">
+                    <TimeElement busyCounterId="0" timeType="1"/>
+                    <DateElement dateType="4" endDate="2021/01/30 20:31:00" startDate="2021/01/30 08:31:00"/>
+                    <SortElement counterId="0" sortDirection="0" sortType="1"/>
+                    <HistoryObjElement bSelectedFlag="true"/>
+                </OtherElement>
+            </FileElement>
+        </TemplateInfo>
+    </TemplateMainInfo>
+</TemplateTable>
